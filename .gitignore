@@ -58,3 +58,6 @@ teamgramd/logs/*
 /v2/
 app/service/dfs/internal/imaging/abc/abc
 v2
+docker-compose-env.yaml
+Dockerfile
+go.mod
