@@ -132,7 +132,7 @@ cd teamgram-server
 # run dependency
 docker-compose -f ./docker-compose-env.yaml up -d
 
-# run docker-compose
+# run docker-compose 
 docker-compose up -d
 ```
 	
